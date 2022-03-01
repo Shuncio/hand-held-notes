@@ -1,3 +1,14 @@
+You have to run these commands in the terminal in order to run the app locally:
+```
+npm install
+```
+
+```
+npm start
+```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
