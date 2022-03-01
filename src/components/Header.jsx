@@ -6,7 +6,7 @@ function Header() { {/* creates the Header Component */}
     <header>
       <h1>
         <HighlightIcon /> {/* renders HighlightIcon MUI's Component */}
-        Keeper
+        Hand-held notes
       </h1>
     </header>
   );
